@@ -1,10 +1,11 @@
 # Unity FPS Game
+#Guns
 
 ## Project Overview
 This is a first-person shooter (FPS) game developed in Unity, featuring immersive gameplay and custom mechanics.
 
 ## Prerequisites
-- Unity [Version] (Recommended: Latest LTS version)
+- Unity [2022.3.36f1] (Recommended: Latest LTS version)
 - Git
 - GitHub Account
 
@@ -42,4 +43,4 @@ This is a first-person shooter (FPS) game developed in Unity, featuring immersiv
 MIT License
 
 ## Contact
-[Your Contact Information]
+[kaito20137@gmail.com]
